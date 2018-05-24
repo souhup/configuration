@@ -3,6 +3,7 @@ set nocompatible "关闭vi兼容模式
 set number "显示行号
 set cursorline "突出当前行
 set ruler "打开状态栏标尺
+set nowrap "关闭自动折行
 
 set tabstop=2 "tab长度为2空格
 set shiftwidth=2 "使用<和>移动时宽度为2空格
