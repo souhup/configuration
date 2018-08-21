@@ -1,6 +1,7 @@
 syntax on
+
 set nocompatible "关闭vi兼容模式
-set number "显示行号
+set relativenumber "显示相对行号
 set cursorline "突出当前行
 set ruler "打开状态栏标尺
 set nowrap "关闭自动折行
@@ -16,7 +17,6 @@ set smartindent "开启新行时自动缩进
 set backspace=indent,eol,start "使用backspace和delete可以删除回车和之前的字符
 
 set encoding=utf-8 "文本编码utf-8
-
 
 imap jk <Esc>
 
